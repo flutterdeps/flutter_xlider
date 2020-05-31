@@ -11,6 +11,7 @@
 * */
 
 import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
 
 class FlutterSlider extends StatefulWidget {
   final Key key;
